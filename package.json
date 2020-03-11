@@ -1,0 +1,11 @@
+{
+  "name": "@sveltech/focus",
+  "version": "0.0.0",
+  "description": "Focus helper for better ARIA in Svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "jakobrosenberg@gmail.com",
+  "license": "MIT"
+}
